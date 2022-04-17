@@ -1,0 +1,23 @@
+Participation and evaluation application in social activities
+
+
+
+The user logs into the application select the appropriate category among them to participate in social events. The user scores the social activities he participates in through the application. The user filters the category he is interested in through the application and participates in the activities he sees according to his interest. Users can invite other members to events to attend. Users can create events and invite other users to events they create. Users can add friends to other members who attend or do not participate in activities that match their interests.
+
+
+
+Functional Requirements: 
+
+-User registers to the application(Register)
+
+-User logs in with the account he created(Log in)
+
+-List of events filtered by categories
+
+-Event creation section
+
+-System to add other users to friend list
+
+-Rating system for attended events
+
+-System for inviting other users to events
